@@ -1,9 +1,7 @@
-I build software from the underlying mechanisms up.
+I design and build software systems from low-level primitives to complete applications.
 
-My interests lie in backend engineering, systems, JavaScript runtimes, performance, security, and software architecture.
+Focused on backend engineering, systems architecture, runtimes, networking, storage, performance, and security.
 
-I value explicit design, minimal dependencies, predictable behavior, and understanding how things work beneath the abstraction layer.
+Independent engineering, minimal dependencies, explicit data flow, and measurable results.
 
-I prefer building and understanding primitives over relying on frameworks without understanding their internals.
-
-Currently focused on turning independent engineering research and architectural ideas into practical, maintainable software.
+Building practical software while researching the mechanisms beneath it.
