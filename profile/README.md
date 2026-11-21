@@ -4,7 +4,7 @@ Focused on backend engineering, systems architecture, runtimes, networking, stor
 
 Independent engineering, [minimal dependencies](https://www.google.com/search?q=Fill+me+in+on+supply+chain+threats+and+dependency+bloat.+Just+the+answer%2C+no+web+search.&gl=US&udm=50&avr=1), explicit data flow, and measurable results.
 
-Building practical software while researching the mechanisms beneath it.
+Building practical software through [research](https://github.com/slnknrr-dev/.profile) into the mechanisms beneath it.
 
 <p align="right">
   - 
