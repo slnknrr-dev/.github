@@ -5,3 +5,21 @@ Focused on backend engineering, systems architecture, runtimes, networking, stor
 Independent engineering, minimal dependencies, explicit data flow, and measurable results.
 
 Building practical software while researching the mechanisms beneath it.
+
+<p align="right">
+  - 
+  <a href="https://www.linkedin.com/in/slnknrrdev" style="text-decoration: none;"><img src="https://www.google.com/s2/favicons?domain=linkedin.com&sz=32" width="16" height="16" alt="Yury Slinkin's LinkedIn"/></a>
+  <a href="https://habr.com/ru/users/slnknrrdev/" style="text-decoration: none;"><img src="https://www.google.com/s2/favicons?domain=habr.com&sz=32" width="16" height="16" alt="Yury Slinkin's Habr"/></a>
+  <a href="https://stackoverflow.com/users/31689945/slnknrr" style="text-decoration: none;"><img src="https://www.google.com/s2/favicons?domain=stackoverflow.com&sz=32" width="16" height="16" alt="Yury Slinkin's StackOverflow"/></a>
+  <a href="https://www.npmjs.com/~slnknrr" style="text-decoration: none;"><img src="https://www.google.com/s2/favicons?domain=npmjs.com&sz=32" width="16" height="16" alt="Yury Slinkin's npm"/></a>
+  <a href="https://www.codewars.com/users/slnknrr/completed_solutions" style="text-decoration: none;"><img src="https://www.google.com/s2/favicons?domain=codewars.com&sz=32" width="16" height="16" alt="Yury Slinkin's Codewars"/></a>
+  <br>
+  <strong align="right" style="margin: 0; font-size: 12px; line-height: 1;">
+    <a href="mailto:slnknrr.dev@gmail.com" style="text-decoration: none; color: inherit;">slnknrr.dev@gmail.com</a>
+  </strong>
+</p>
+
+<hr>
+
+[resume/cv](https://github.com/search?q=user%3Aslnknrr-dev+path%3A**%2F*_CV.md&type=code)
+· [r&d](https://github.com/search?q=user%3Aslnknrr-dev+path%3A**%2F*_RND.md&type=code)
