@@ -1,10 +1,10 @@
-I design and build software systems from [low-level primitives](https://github.com/search?q=owner%3Aslnknrr-dev+-lang-topic&type=repositories) to complete applications.
+I [design](https://github.com/slnknrr-dev/.profile/blob/main/README.md#design) and build software systems from [low-level primitives](https://github.com/search?q=owner%3Aslnknrr-dev+-lang-topic&type=repositories) to complete applications.
 
 Focused on backend engineering, systems architecture, runtimes, networking, storage, performance, and security.
 
 Independent engineering, [minimal dependencies](https://www.google.com/search?q=Fill+me+in+on+supply+chain+threats+and+dependency+bloat.+Just+the+answer%2C+no+web+search.&gl=US&udm=50&avr=1), explicit data flow, and measurable results.
 
-Building practical software through [research](https://github.com/slnknrr-dev/.profile) into the mechanisms beneath it.
+Building practical software through [research](https://github.com/slnknrr-dev/.profile/blob/main/README.md#research) into the mechanisms beneath it.
 
 <p align="right">
   - 
