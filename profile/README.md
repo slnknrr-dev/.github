@@ -17,6 +17,10 @@ Building practical software while researching the mechanisms beneath it.
   <strong align="right" style="margin: 0; font-size: 12px; line-height: 1;">
     <a href="mailto:slnknrr.dev@gmail.com" style="text-decoration: none; color: inherit;">slnknrr.dev@gmail.com</a>
   </strong>
+  <br>
+  <a href="https://github.com/slnknrr-dev/javacript-lang-topic">javascript</a>
+  / <a href="https://github.com/slnknrr-dev/javascript-lang-topic/tree/main/@.nodejs">node.js</a>
+  · <a href="https://github.com/slnknrr-dev/c-lang-topic">c</a>
 </p>
 
 <hr>
