@@ -6,6 +6,8 @@ Independent engineering, [minimal dependencies](https://www.google.com/search?q=
 
 Building practical software through [research](https://github.com/slnknrr-dev/.profile/blob/main/README.md#research) into the mechanisms beneath it.
 
+[![Donate](https://img.shields.io/badge/PayPal-donate-00457C?logo=paypal&logoColor=white)](https://paypal.me/slnknrrdev)
+
 <p align="right">
   - 
   <a href="https://www.linkedin.com/in/slnknrrdev" style="text-decoration: none;"><img src="https://www.google.com/s2/favicons?domain=linkedin.com&sz=32" width="16" height="16" alt="Yury Slinkin's LinkedIn"/></a>
