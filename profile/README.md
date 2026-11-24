@@ -7,6 +7,7 @@ Independent engineering, [minimal dependencies](https://www.google.com/search?q=
 Building practical software through [research](https://github.com/slnknrr-dev/.profile/blob/main/README.md#research) into the mechanisms beneath it.
 
 [![Donate](https://img.shields.io/badge/PayPal-donate-00457C?logo=paypal&logoColor=white)](https://paypal.me/slnknrrdev)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-donate-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/slnknrr)
 
 <p align="right">
   - 
